@@ -1,3 +1,3 @@
 function ss(
-    string sa
+    
 )
